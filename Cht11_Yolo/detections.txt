@@ -1,0 +1,18 @@
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([ 0., 16.], device='cuda:0')
+conf: tensor([0.8905, 0.8569], device='cuda:0')
+data: tensor([[ 80.3561,  32.6388, 178.1385, 165.5673,   0.8905,   0.0000],
+        [171.0556,  22.9043, 236.8784, 162.2420,   0.8569,  16.0000]], device='cuda:0')
+id: None
+is_track: False
+orig_shape: (168, 300)
+shape: torch.Size([2, 6])
+xywh: tensor([[129.2473,  99.1031,  97.7824, 132.9285],
+        [203.9670,  92.5731,  65.8228, 139.3377]], device='cuda:0')
+xywhn: tensor([[0.4308, 0.5899, 0.3259, 0.7912],
+        [0.6799, 0.5510, 0.2194, 0.8294]], device='cuda:0')
+xyxy: tensor([[ 80.3561,  32.6388, 178.1385, 165.5673],
+        [171.0556,  22.9043, 236.8784, 162.2420]], device='cuda:0')
+xyxyn: tensor([[0.2679, 0.1943, 0.5938, 0.9855],
+        [0.5702, 0.1363, 0.7896, 0.9657]], device='cuda:0')

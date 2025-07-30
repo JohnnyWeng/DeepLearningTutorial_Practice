@@ -1,0 +1,104 @@
+Top Machine Learning Papers to Read in 2023
+
+Machine Learning is a big field with new research coming out frequently. It is a hot field where academia and industry keep experimenting with new things to improve our daily lives.
+
+In recent years, generative AI has been changing the world due to the application of machine learning. For example, ChatGPT and Stable Diffusion. Even with 2023 dominated by generative AI, we should be aware of many more machine learning breakthroughs.
+
+Here are the top machine learning papers to read in 2023 so you will not miss the upcoming trends.
+
+ 
+
+1) Learning the Beauty in Songs: Neural Singing Voice Beautifier
+ 
+
+Singing Voice Beautifying (SVB) is a novel task in generative AI that aims to improve the amateur singing voice into a beautiful one. It’s exactly the research aim of Liu et al. (2022) when they proposed a new generative model called Neural Singing Voice Beautifier (NSVB). 
+
+The NSVB is a semi-supervised learning model using a latent-mapping algorithm that acts as a pitch corrector and improves vocal tone. The work promises to improve the musical industry and is worth checking out.
+
+ 
+
+2) Symbolic Discovery of Optimization Algorithms
+ 
+
+Deep neural network models have become bigger than ever, and much research has been conducted to simplify the training process. Recent research by the Google team (Chen et al. (2023)) has proposed a new optimization for the Neural Network called Lion (EvoLved Sign Momentum). The method shows that the algorithm is more memory-efficient and requires a smaller learning rate than Adam. It’s great research that shows many promises you should not miss.
+
+ 
+
+3) TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis
+ 
+
+Time series analysis is a common use case in many businesses; For example, price forecasting, anomaly detection, etc. However, there are many challenges to analyzing temporal data only based on the current data (1D data). That is why Wu et al. (2023) propose a new method called TimesNet to transform the 1D data into 2D data, which achieves great performance in the experiment. You should read the paper to understand better this new method as it would help much future time series analysis.
+
+ 
+
+4) OPT: Open Pre-trained Transformer Language Models
+ 
+
+Currently, we are in a generative AI era where many large language models were intensively developed by companies. Mostly this kind of research would not release their model or only be commercially available. However, the Meta AI research group (Zhang et al. (2022)) tries to do the opposite by publicly releasing the Open Pre-trained Transformers (OPT) model that could be comparable with the GPT-3. The paper is a great start to understanding the OPT model and the research detail, as the group logs all the detail in the paper.
+
+ 
+
+5) REaLTabFormer: Generating Realistic Relational and Tabular Data using Transformers
+ 
+
+The generative model is not limited to only generating text or pictures but also tabular data. This generated data is often called synthetic data.  Many models were developed to generate synthetic tabular data, but almost no model to generate relational tabular synthetic data. This is exactly the aim of Solatorio and Dupriez (2023) research; creating a model called REaLTabFormer for synthetic relational data. The experiment has shown that
+
+the result is accurately close to the existing synthetic model, which could be extended to many applications.
+
+ 
+
+6) Is Reinforcement Learning (Not) for Natural Language Processing?: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization
+ 
+
+Reinforcement Learning conceptually is an excellent choice for the Natural Language Processing task, but is it true? This is a question that Ramamurthy et al. (2022) try to answer. The researcher introduces various library and algorithm that shows where Reinforcement Learning techniques have an edge compared to the supervised method in the NLP tasks. It’s a recommended paper to read if you want an alternative for your skillset.
+
+ 
+
+7) Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
+ 
+
+Text-to-image generation was big in 2022, and 2023 would be projected on text-to-video (T2V) capability. Research by Wu et al. (2022) shows how T2V can be extended on many approaches. The research proposes a new Tune-a-Video method that supports T2V tasks such as subject and object change, style transfer, attribute editing, etc. It’s a great paper to read if you are interested in text-to-video research.
+
+ 
+
+8) PyGlove: Efficiently Exchanging ML Ideas as Code
+ 
+
+Efficient collaboration is the key to success on any team, especially with the increasing complexity within machine learning fields. To nurture efficiency, Peng et al. (2023) present a PyGlove library to share ML ideas easily. The PyGlove concept is to capture the process of ML research through a list of patching rules. The list can then be reused in any experiments scene, which improves the team's efficiency. It’s research that tries to solve a machine learning problem that many have not done yet, so it’s worth reading.
+
+ 
+
+8) How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection
+ 
+
+ChatGPT has changed the world so much. It’s safe to say that the trend would go upward from here as the public is already in favor of using ChatGPT. However, how is the ChatGPT current result compared to the Human Experts? It’s exactly a question that Guo et al. (2023) try to answer. The team tried to collect data from experts and ChatGPT prompt results, which they compared. The result shows that implicit differences between ChatGPT and experts were there. The research is something that I feel would be kept asked in the future as the generative AI model would keep growing over time, so it’s worth reading.
+
+ 
+
+Conclusion
+ 
+
+2023 is a great year for machine learning research shown by the current trend, especially generative AI such as ChatGPT and Stable Diffusion. There is much promising research that I feel we should not miss because it’s shown promising results that might change the current standard. In this article, I have shown you 9 top ML papers to read, ranging from the generative model, time series model to workflow efficiency. I hope it helps.
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>
+
+</title></head>
+<body>
+    <form method="post" action="./DownloadFile.aspx?Source=Course&amp;CourseType=2&amp;AttachmentID=466014&amp;AttachmentFileName=topmachinelearningpaper.txt" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTEzNDM3NzkxOWRkE99b+haQV3ZBm26TDQfyZY8BZWY=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F69017DB" />
+</div>
+    <div>
+    
+    </div>
+    </form>
+</body>
+</html>
